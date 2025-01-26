@@ -1,0 +1,19 @@
+.guidLineBlock h2
+{
+    font-size: 16px;
+}
+.guidLineBlock p
+{
+    font-size: 14px;
+}
+
+.guidLinesHolder
+{
+    /* position: fixed; */
+    background-color: #131313;
+    border: 1px solid #363535;
+    width: 20vw;
+    margin: 14vh 0 0 1vw;
+    padding: 2vh 2vw;
+    border-radius: 10px;
+}

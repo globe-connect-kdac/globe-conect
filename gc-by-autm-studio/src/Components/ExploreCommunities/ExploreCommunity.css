@@ -1,0 +1,28 @@
+.mainCommunityExplorer
+{
+    /* position:fixed; */
+    background-color: #0e1113;
+    border: 1px solid #363535;
+    width: 20vw;
+    margin: 4vh 0 0 1vw;
+    padding: 2vh 2vw;
+    border-radius: 10px;
+    /* #115bca */
+}
+.exploreCommunityButtonHolder
+{
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+}
+.exploreCommunityButtonHolder button
+{
+    padding: 2vh 2vw;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #115bca;
+}
